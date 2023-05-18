@@ -1,5 +1,5 @@
 # Wanna-Form
-โปรเจคปี 2 วิชา Fundamental programming 2
+โปรเจคปี 2 เทอม 1 วิชา Fundamental programming 2
 
 จุดประสงค์ : เพื่อสร้างการโปรแกรมการสอบ online โดยตรวจสอบได้ว่าผู้สอบทำข้อสอบอยู่ตลอด
 โปรเจคนี้ใช้ IntelliJ IDEA ในการเขียน
