@@ -4,7 +4,7 @@
 จุดประสงค์ : เพื่อสร้างการโปรแกรมการสอบ online โดยตรวจสอบได้ว่าผู้สอบทำข้อสอบอยู่ตลอด
 โปรเจคนี้ใช้ IntelliJ IDEA ในการเขียน
 
-requirement : ติดตั้งฟอนต์ Freehand521 ในเครื่องก่อนรัน
+requirement : ติดตั้งฟอนต์ Freehand521 ในเครื่องก่อนรัน และ opencv ในIntelliJ IDEA
 
 ![image main](https://user-images.githubusercontent.com/59200533/244873113-354dde01-33e8-4cec-9a4c-d5fb0484b16a.png)
 
